@@ -1,4 +1,4 @@
-package goassertions
+package assert
 
 import (
 	"fmt"
