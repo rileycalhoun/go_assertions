@@ -1,3 +1,3 @@
-module github.com/rileycalhoun/go_assertions/m/v2
+module github.com/rileycalhoun/go_assertions
 
 go 1.23.2
